@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import tesla from '../Pages/Tesla.webp'
+import tesla from '../Images/Tesla.webp'
 import { DataToPass } from './GlobalData'
 
 const Cards = ({ article }) => {
